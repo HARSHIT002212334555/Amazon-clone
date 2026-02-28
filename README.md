@@ -3,8 +3,6 @@
 A fully responsive **Amazon Homepage Clone** built using **HTML5 and CSS3**.  
 This project replicates the layout, design structure, and styling of Amazon's homepage to improve frontend development skills.
 
----
-
 ## 🚀 Live Features
 
 - 🏠 Amazon-style Navigation Bar
@@ -38,13 +36,14 @@ Amazon-Clone/
 │── images/  
 │── amazon_logo.png  
 │── hero_image.jpg  
-│── box1_image.jpg ...  
+│── box1_image.jpg ...
 
 ---
 
 ## 🎨 UI Components Implemented
 
 ### 🔹 Navbar
+
 - Logo
 - Delivery location
 - Search bar with category dropdown
@@ -54,19 +53,23 @@ Amazon-Clone/
 - Cart icon
 
 ### 🔹 Panel Section
+
 - Navigation links
 - Deals highlight section
 
 ### 🔹 Hero Section
+
 - Background image banner
 - Promotional message container
 
 ### 🔹 Product Grid
+
 - 8 Product category boxes
 - Background images
 - Hover border effects
 
 ### 🔹 Footer
+
 - Back to top button
 - 4 Column information layout
 - Copyright section
@@ -124,7 +127,7 @@ It is not affiliated with or endorsed by Amazon.
 ## 👨‍💻 Author
 
 **Harshit Vishwakarma**  
-B.Tech Student | Frontend Developer 🚀  
+B.Tech Student | Frontend Developer 🚀
 
 ---
 
